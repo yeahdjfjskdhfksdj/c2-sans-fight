@@ -1,4 +1,4 @@
-# Welcome to the Sans Fight Simulator – A Fan-Made Undertale Experience
+# Bad Time Simulator (Sans Fight) – A Fan-Made Undertale Experience
 
 Hey there! 👋  
 So you’ve stumbled upon this project – that’s awesome! Let me walk you through what this is, why it exists, and how you can try it out for yourself.
