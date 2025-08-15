@@ -1,6 +1,6 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-0,SansText,ready?,,,,,,,
+0,SansText,diddyblud ahhh?,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
@@ -21,20 +21,21 @@
 0.4,Sound,GasterBlaster,1.4,,,,,,
 0.4,SineBones,20,-24,360,25,,,,
 1.1,SansAnimation,,,,,,,,
-0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,434,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
-0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,340,0.333,0.26666
 0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
 0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
 0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
 0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
-0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
-0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,480,189,344,315,0.333,0.26666
+0.9,GasterBlaster,1,0,0,343,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
 0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+0,GasterBlaster,2,640,100,499,306,593,0.666,0.5
 3,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
+0,SansText,we didy.,,,,,,,
 0,EndAttack,,,,,,,,
+
